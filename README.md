@@ -2,7 +2,7 @@
 Created a risk prediction model to predict the likelihood of patients developing cardiovascular disease based on bioindicators. Created a secondary application that takes input weights from the logistic regression applied to previous patient data to advise new patients on best practices and lifestyle habits. 
 
 ## Dataset
-For this project I utilized a kaggle dataset: https://www.kaggle.com/datasets/data855/heart-disease
+For this project I utilized a kaggle dataset: https://www.kaggle.com/datasets/data855/heart-disease\n
 This dataset contains a variety of bioindicators that serve as both direct and indirect indicators to show cardiovascular health through vitals like blood pressure and blood vessel health. 
 
 ### Context
